@@ -19,7 +19,7 @@ def main():
     # Sidebar for Configuration
     st.sidebar.header("Settings")
     api_key = st.sidebar.text_input("Enter OpenAI API Key", value=OPENAI_API_KEY, type="password")
-    uploaded_file = st.sidebar.file_drop("Upload Reference Literature (PDF)", type=["pdf"])
+    uploaded_file = st.sidebar.file_uploader("Upload Reference Literature (PDF)", type=["pdf"])
 
     # Initialize Components
     if api_key:
