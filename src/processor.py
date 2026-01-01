@@ -36,4 +36,4 @@ class VariantProcessor:
 # Example Usage (Commented out for production)
 # if __name__ == "__main__":
 #     proc = VariantProcessor()
-#     print(proc.parse_variant_string("BRCA1 C61G"))
+#     print(proc.parse_variant_string("BRCA1 C61G")) 
