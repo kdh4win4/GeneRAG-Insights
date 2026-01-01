@@ -22,3 +22,4 @@
 1. Clone the repository:
    ```bash
    git clone [https://github.com/kdh4win4/GeneRAG-Insights.git](https://github.com/kdh4win4/GeneRAG-Insights.git)
+<img width="1433" height="1138" alt="Screenshot 2026-01-01 at 10 47 46 AM" src="https://github.com/user-attachments/assets/b4672d73-7f4b-4b92-929c-fc7935597d14" />
